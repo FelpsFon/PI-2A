@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 *.exe
+*.txt
 .vscode
-*.h
 =======
 .vscode
 >>>>>>> 04e6d8f8c7dbaddd4578972234616020f34d1f08
